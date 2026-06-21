@@ -1,4 +1,4 @@
-# OpenPulse
+# Open-Pulse
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue)](https://opensource.org/licenses/Apache-2.0)
 ![PWA](https://img.shields.io/badge/PWA-Enabled-blue)
