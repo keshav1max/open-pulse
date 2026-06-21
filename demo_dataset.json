@@ -1,0 +1,2784 @@
+{
+  "nodes": [
+    {
+      "id": "demo/repository",
+      "label": "demo/repository",
+      "type": "repository",
+      "position": [
+        13.53,
+        -4.17,
+        0.0
+      ],
+      "riskScore": 0.43,
+      "size": 1.62,
+      "metadata": {
+        "cluster": 0,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-0-1",
+      "label": "pkg-0-1",
+      "type": "library",
+      "position": [
+        13.89,
+        -3.8,
+        1.27
+      ],
+      "riskScore": 0.83,
+      "size": 1.23,
+      "metadata": {
+        "cluster": 0,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-0-2",
+      "label": "pkg-0-2",
+      "type": "api",
+      "position": [
+        12.21,
+        -4.57,
+        1.61
+      ],
+      "riskScore": 0.72,
+      "size": 1.6,
+      "metadata": {
+        "cluster": 0,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-0-3",
+      "label": "pkg-0-3",
+      "type": "service",
+      "position": [
+        12.61,
+        -4.27,
+        3.6
+      ],
+      "riskScore": 0.79,
+      "size": 1.88,
+      "metadata": {
+        "cluster": 0,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-0-4",
+      "label": "pkg-0-4",
+      "type": "database",
+      "position": [
+        11.22,
+        -2.65,
+        3.77
+      ],
+      "riskScore": 0.5,
+      "size": 1.07,
+      "metadata": {
+        "cluster": 0,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-0-5",
+      "label": "pkg-0-5",
+      "type": "server",
+      "position": [
+        10.0,
+        -3.76,
+        4.02
+      ],
+      "riskScore": 0.72,
+      "size": 1.91,
+      "metadata": {
+        "cluster": 0,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-0-6",
+      "label": "pkg-0-6",
+      "type": "repository",
+      "position": [
+        8.69,
+        -4.24,
+        4.04
+      ],
+      "riskScore": 0.46,
+      "size": 1.35,
+      "metadata": {
+        "cluster": 0,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-0-7",
+      "label": "pkg-0-7",
+      "type": "library",
+      "position": [
+        8.86,
+        -3.09,
+        1.57
+      ],
+      "riskScore": 0.27,
+      "size": 1.58,
+      "metadata": {
+        "cluster": 0,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-0-8",
+      "label": "pkg-0-8",
+      "type": "api",
+      "position": [
+        8.51,
+        -2.51,
+        1.08
+      ],
+      "riskScore": 0.73,
+      "size": 1.38,
+      "metadata": {
+        "cluster": 0,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-0-9",
+      "label": "pkg-0-9",
+      "type": "service",
+      "position": [
+        5.97,
+        -3.24,
+        1.31
+      ],
+      "riskScore": 0.51,
+      "size": 1.59,
+      "metadata": {
+        "cluster": 0,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-0-10",
+      "label": "pkg-0-10",
+      "type": "database",
+      "position": [
+        7.26,
+        -4.63,
+        0.0
+      ],
+      "riskScore": 0.46,
+      "size": 1.61,
+      "metadata": {
+        "cluster": 0,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-0-11",
+      "label": "pkg-0-11",
+      "type": "server",
+      "position": [
+        6.69,
+        -3.81,
+        -1.07
+      ],
+      "riskScore": 0.7,
+      "size": 1.89,
+      "metadata": {
+        "cluster": 0,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-0-12",
+      "label": "pkg-0-12",
+      "type": "repository",
+      "position": [
+        7.65,
+        -3.42,
+        -1.7
+      ],
+      "riskScore": 0.36,
+      "size": 1.33,
+      "metadata": {
+        "cluster": 0,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-0-13",
+      "label": "pkg-0-13",
+      "type": "library",
+      "position": [
+        8.47,
+        -2.93,
+        -2.11
+      ],
+      "riskScore": 0.28,
+      "size": 1.63,
+      "metadata": {
+        "cluster": 0,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-0-14",
+      "label": "pkg-0-14",
+      "type": "api",
+      "position": [
+        8.9,
+        -3.67,
+        -3.38
+      ],
+      "riskScore": 0.46,
+      "size": 1.85,
+      "metadata": {
+        "cluster": 0,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-0-15",
+      "label": "pkg-0-15",
+      "type": "service",
+      "position": [
+        10.0,
+        -4.59,
+        -2.61
+      ],
+      "riskScore": 0.64,
+      "size": 1.53,
+      "metadata": {
+        "cluster": 0,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-0-16",
+      "label": "pkg-0-16",
+      "type": "database",
+      "position": [
+        11.14,
+        -3.73,
+        -3.51
+      ],
+      "riskScore": 0.44,
+      "size": 1.16,
+      "metadata": {
+        "cluster": 0,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-0-17",
+      "label": "pkg-0-17",
+      "type": "server",
+      "position": [
+        11.21,
+        -2.58,
+        -1.66
+      ],
+      "riskScore": 0.78,
+      "size": 2.09,
+      "metadata": {
+        "cluster": 0,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-0-18",
+      "label": "pkg-0-18",
+      "type": "repository",
+      "position": [
+        12.86,
+        -4.33,
+        -2.08
+      ],
+      "riskScore": 0.31,
+      "size": 1.84,
+      "metadata": {
+        "cluster": 0,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-0-19",
+      "label": "pkg-0-19",
+      "type": "library",
+      "position": [
+        14.26,
+        -3.91,
+        -1.39
+      ],
+      "riskScore": 0.26,
+      "size": 1.3,
+      "metadata": {
+        "cluster": 0,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-1-0",
+      "label": "pkg-1-0",
+      "type": "library",
+      "position": [
+        9.57,
+        0.94,
+        8.66
+      ],
+      "riskScore": 0.83,
+      "size": 1.64,
+      "metadata": {
+        "cluster": 1,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-1-1",
+      "label": "pkg-1-1",
+      "type": "api",
+      "position": [
+        8.16,
+        -0.19,
+        9.69
+      ],
+      "riskScore": 0.31,
+      "size": 2.05,
+      "metadata": {
+        "cluster": 1,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-1-2",
+      "label": "pkg-1-2",
+      "type": "service",
+      "position": [
+        7.9,
+        -0.53,
+        10.76
+      ],
+      "riskScore": 0.68,
+      "size": 1.85,
+      "metadata": {
+        "cluster": 1,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-1-3",
+      "label": "pkg-1-3",
+      "type": "database",
+      "position": [
+        7.39,
+        -0.45,
+        11.95
+      ],
+      "riskScore": 0.35,
+      "size": 2.02,
+      "metadata": {
+        "cluster": 1,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-1-4",
+      "label": "pkg-1-4",
+      "type": "server",
+      "position": [
+        5.96,
+        -0.5,
+        11.62
+      ],
+      "riskScore": 0.25,
+      "size": 1.88,
+      "metadata": {
+        "cluster": 1,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-1-5",
+      "label": "pkg-1-5",
+      "type": "repository",
+      "position": [
+        5.0,
+        -0.82,
+        11.02
+      ],
+      "riskScore": 0.29,
+      "size": 2.03,
+      "metadata": {
+        "cluster": 1,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-1-6",
+      "label": "pkg-1-6",
+      "type": "library",
+      "position": [
+        3.62,
+        0.27,
+        12.91
+      ],
+      "riskScore": 0.58,
+      "size": 1.92,
+      "metadata": {
+        "cluster": 1,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-1-7",
+      "label": "pkg-1-7",
+      "type": "api",
+      "position": [
+        3.15,
+        -0.7,
+        11.2
+      ],
+      "riskScore": 0.72,
+      "size": 1.19,
+      "metadata": {
+        "cluster": 1,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-1-8",
+      "label": "pkg-1-8",
+      "type": "service",
+      "position": [
+        3.47,
+        1.13,
+        9.77
+      ],
+      "riskScore": 0.43,
+      "size": 1.88,
+      "metadata": {
+        "cluster": 1,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-1-9",
+      "label": "pkg-1-9",
+      "type": "database",
+      "position": [
+        1.69,
+        0.83,
+        9.74
+      ],
+      "riskScore": 0.43,
+      "size": 2.14,
+      "metadata": {
+        "cluster": 1,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-1-10",
+      "label": "pkg-1-10",
+      "type": "server",
+      "position": [
+        2.48,
+        0.07,
+        8.66
+      ],
+      "riskScore": 0.39,
+      "size": 1.43,
+      "metadata": {
+        "cluster": 1,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-1-11",
+      "label": "pkg-1-11",
+      "type": "repository",
+      "position": [
+        3.0,
+        -0.93,
+        8.01
+      ],
+      "riskScore": 0.77,
+      "size": 2.17,
+      "metadata": {
+        "cluster": 1,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-1-12",
+      "label": "pkg-1-12",
+      "type": "library",
+      "position": [
+        3.15,
+        0.57,
+        7.31
+      ],
+      "riskScore": 0.85,
+      "size": 2.05,
+      "metadata": {
+        "cluster": 1,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-1-13",
+      "label": "pkg-1-13",
+      "type": "api",
+      "position": [
+        2.87,
+        0.69,
+        5.73
+      ],
+      "riskScore": 0.23,
+      "size": 1.52,
+      "metadata": {
+        "cluster": 1,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-1-14",
+      "label": "pkg-1-14",
+      "type": "service",
+      "position": [
+        3.76,
+        1.07,
+        4.84
+      ],
+      "riskScore": 0.45,
+      "size": 1.44,
+      "metadata": {
+        "cluster": 1,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-1-15",
+      "label": "pkg-1-15",
+      "type": "database",
+      "position": [
+        5.0,
+        0.92,
+        6.38
+      ],
+      "riskScore": 0.69,
+      "size": 1.92,
+      "metadata": {
+        "cluster": 1,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-1-16",
+      "label": "pkg-1-16",
+      "type": "server",
+      "position": [
+        6.24,
+        -0.94,
+        4.85
+      ],
+      "riskScore": 0.68,
+      "size": 1.48,
+      "metadata": {
+        "cluster": 1,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-1-17",
+      "label": "pkg-1-17",
+      "type": "repository",
+      "position": [
+        6.41,
+        0.44,
+        6.72
+      ],
+      "riskScore": 0.4,
+      "size": 1.12,
+      "metadata": {
+        "cluster": 1,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-1-18",
+      "label": "pkg-1-18",
+      "type": "library",
+      "position": [
+        8.66,
+        0.93,
+        6.0
+      ],
+      "riskScore": 0.8,
+      "size": 1.62,
+      "metadata": {
+        "cluster": 1,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-1-19",
+      "label": "pkg-1-19",
+      "type": "api",
+      "position": [
+        6.77,
+        0.32,
+        8.08
+      ],
+      "riskScore": 0.24,
+      "size": 1.29,
+      "metadata": {
+        "cluster": 1,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-2-0",
+      "label": "pkg-2-0",
+      "type": "api",
+      "position": [
+        -2.88,
+        3.34,
+        8.66
+      ],
+      "riskScore": 0.51,
+      "size": 1.75,
+      "metadata": {
+        "cluster": 2,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-2-1",
+      "label": "pkg-2-1",
+      "type": "service",
+      "position": [
+        -2.34,
+        4.53,
+        9.53
+      ],
+      "riskScore": 0.32,
+      "size": 1.85,
+      "metadata": {
+        "cluster": 2,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-2-2",
+      "label": "pkg-2-2",
+      "type": "database",
+      "position": [
+        -2.12,
+        4.35,
+        10.75
+      ],
+      "riskScore": 0.5,
+      "size": 1.59,
+      "metadata": {
+        "cluster": 2,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-2-3",
+      "label": "pkg-2-3",
+      "type": "server",
+      "position": [
+        -2.34,
+        2.83,
+        12.31
+      ],
+      "riskScore": 0.5,
+      "size": 1.67,
+      "metadata": {
+        "cluster": 2,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-2-4",
+      "label": "pkg-2-4",
+      "type": "repository",
+      "position": [
+        -3.84,
+        3.53,
+        12.24
+      ],
+      "riskScore": 0.5,
+      "size": 2.18,
+      "metadata": {
+        "cluster": 2,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-2-5",
+      "label": "pkg-2-5",
+      "type": "library",
+      "position": [
+        -5.0,
+        4.42,
+        10.86
+      ],
+      "riskScore": 0.74,
+      "size": 2.09,
+      "metadata": {
+        "cluster": 2,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-2-6",
+      "label": "pkg-2-6",
+      "type": "api",
+      "position": [
+        -6.03,
+        2.62,
+        11.82
+      ],
+      "riskScore": 0.33,
+      "size": 1.32,
+      "metadata": {
+        "cluster": 2,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-2-7",
+      "label": "pkg-2-7",
+      "type": "service",
+      "position": [
+        -6.1,
+        2.87,
+        10.18
+      ],
+      "riskScore": 0.38,
+      "size": 1.62,
+      "metadata": {
+        "cluster": 2,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-2-8",
+      "label": "pkg-2-8",
+      "type": "database",
+      "position": [
+        -6.8,
+        4.76,
+        9.97
+      ],
+      "riskScore": 0.7,
+      "size": 1.68,
+      "metadata": {
+        "cluster": 2,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-2-9",
+      "label": "pkg-2-9",
+      "type": "server",
+      "position": [
+        -7.51,
+        4.22,
+        9.47
+      ],
+      "riskScore": 0.32,
+      "size": 1.14,
+      "metadata": {
+        "cluster": 2,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-2-10",
+      "label": "pkg-2-10",
+      "type": "repository",
+      "position": [
+        -7.53,
+        4.33,
+        8.66
+      ],
+      "riskScore": 0.64,
+      "size": 1.06,
+      "metadata": {
+        "cluster": 2,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-2-11",
+      "label": "pkg-2-11",
+      "type": "library",
+      "position": [
+        -8.13,
+        4.18,
+        7.64
+      ],
+      "riskScore": 0.71,
+      "size": 1.32,
+      "metadata": {
+        "cluster": 2,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-2-12",
+      "label": "pkg-2-12",
+      "type": "api",
+      "position": [
+        -7.29,
+        4.18,
+        7.0
+      ],
+      "riskScore": 0.24,
+      "size": 1.45,
+      "metadata": {
+        "cluster": 2,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-2-13",
+      "label": "pkg-2-13",
+      "type": "service",
+      "position": [
+        -6.59,
+        2.43,
+        6.47
+      ],
+      "riskScore": 0.76,
+      "size": 2.15,
+      "metadata": {
+        "cluster": 2,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-2-14",
+      "label": "pkg-2-14",
+      "type": "database",
+      "position": [
+        -6.16,
+        2.64,
+        5.09
+      ],
+      "riskScore": 0.37,
+      "size": 1.62,
+      "metadata": {
+        "cluster": 2,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-2-15",
+      "label": "pkg-2-15",
+      "type": "server",
+      "position": [
+        -5.0,
+        2.56,
+        5.11
+      ],
+      "riskScore": 0.72,
+      "size": 1.99,
+      "metadata": {
+        "cluster": 2,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-2-16",
+      "label": "pkg-2-16",
+      "type": "repository",
+      "position": [
+        -3.77,
+        2.87,
+        4.87
+      ],
+      "riskScore": 0.47,
+      "size": 1.45,
+      "metadata": {
+        "cluster": 2,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-2-17",
+      "label": "pkg-2-17",
+      "type": "library",
+      "position": [
+        -2.78,
+        2.68,
+        5.61
+      ],
+      "riskScore": 0.86,
+      "size": 1.95,
+      "metadata": {
+        "cluster": 2,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-2-18",
+      "label": "pkg-2-18",
+      "type": "api",
+      "position": [
+        -1.41,
+        3.77,
+        6.05
+      ],
+      "riskScore": 0.35,
+      "size": 1.61,
+      "metadata": {
+        "cluster": 2,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-2-19",
+      "label": "pkg-2-19",
+      "type": "service",
+      "position": [
+        -3.17,
+        3.03,
+        8.07
+      ],
+      "riskScore": 0.42,
+      "size": 1.22,
+      "metadata": {
+        "cluster": 2,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-3-0",
+      "label": "pkg-3-0",
+      "type": "service",
+      "position": [
+        -6.78,
+        -2.71,
+        0.0
+      ],
+      "riskScore": 0.3,
+      "size": 1.32,
+      "metadata": {
+        "cluster": 3,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-3-1",
+      "label": "pkg-3-1",
+      "type": "database",
+      "position": [
+        -6.07,
+        -3.48,
+        1.28
+      ],
+      "riskScore": 0.86,
+      "size": 1.8,
+      "metadata": {
+        "cluster": 3,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-3-2",
+      "label": "pkg-3-2",
+      "type": "server",
+      "position": [
+        -6.96,
+        -4.56,
+        2.21
+      ],
+      "riskScore": 0.7,
+      "size": 1.81,
+      "metadata": {
+        "cluster": 3,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-3-3",
+      "label": "pkg-3-3",
+      "type": "repository",
+      "position": [
+        -7.31,
+        -3.57,
+        3.7
+      ],
+      "riskScore": 0.5,
+      "size": 1.16,
+      "metadata": {
+        "cluster": 3,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-3-4",
+      "label": "pkg-3-4",
+      "type": "library",
+      "position": [
+        -9.22,
+        -4.45,
+        2.42
+      ],
+      "riskScore": 0.2,
+      "size": 1.77,
+      "metadata": {
+        "cluster": 3,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-3-5",
+      "label": "pkg-3-5",
+      "type": "api",
+      "position": [
+        -10.0,
+        -3.85,
+        2.43
+      ],
+      "riskScore": 0.55,
+      "size": 2.15,
+      "metadata": {
+        "cluster": 3,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-3-6",
+      "label": "pkg-3-6",
+      "type": "service",
+      "position": [
+        -11.03,
+        -2.49,
+        3.17
+      ],
+      "riskScore": 0.83,
+      "size": 1.97,
+      "metadata": {
+        "cluster": 3,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-3-7",
+      "label": "pkg-3-7",
+      "type": "database",
+      "position": [
+        -11.31,
+        -3.11,
+        1.81
+      ],
+      "riskScore": 0.22,
+      "size": 1.19,
+      "metadata": {
+        "cluster": 3,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-3-8",
+      "label": "pkg-3-8",
+      "type": "server",
+      "position": [
+        -12.67,
+        -3.49,
+        1.94
+      ],
+      "riskScore": 0.22,
+      "size": 1.05,
+      "metadata": {
+        "cluster": 3,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-3-9",
+      "label": "pkg-3-9",
+      "type": "repository",
+      "position": [
+        -12.2,
+        -4.83,
+        0.72
+      ],
+      "riskScore": 0.29,
+      "size": 2.02,
+      "metadata": {
+        "cluster": 3,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-3-10",
+      "label": "pkg-3-10",
+      "type": "library",
+      "position": [
+        -14.59,
+        -4.75,
+        0.0
+      ],
+      "riskScore": 0.76,
+      "size": 1.6,
+      "metadata": {
+        "cluster": 3,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-3-11",
+      "label": "pkg-3-11",
+      "type": "api",
+      "position": [
+        -14.17,
+        -3.77,
+        -1.35
+      ],
+      "riskScore": 0.41,
+      "size": 1.5,
+      "metadata": {
+        "cluster": 3,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-3-12",
+      "label": "pkg-3-12",
+      "type": "service",
+      "position": [
+        -12.25,
+        -3.38,
+        -1.63
+      ],
+      "riskScore": 0.28,
+      "size": 1.96,
+      "metadata": {
+        "cluster": 3,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-3-13",
+      "label": "pkg-3-13",
+      "type": "database",
+      "position": [
+        -11.88,
+        -4.44,
+        -2.59
+      ],
+      "riskScore": 0.58,
+      "size": 1.16,
+      "metadata": {
+        "cluster": 3,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-3-14",
+      "label": "pkg-3-14",
+      "type": "server",
+      "position": [
+        -10.79,
+        -4.58,
+        -2.42
+      ],
+      "riskScore": 0.78,
+      "size": 1.97,
+      "metadata": {
+        "cluster": 3,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-3-15",
+      "label": "pkg-3-15",
+      "type": "repository",
+      "position": [
+        -10.0,
+        -2.72,
+        -3.74
+      ],
+      "riskScore": 0.5,
+      "size": 1.17,
+      "metadata": {
+        "cluster": 3,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-3-16",
+      "label": "pkg-3-16",
+      "type": "library",
+      "position": [
+        -9.18,
+        -3.51,
+        -2.53
+      ],
+      "riskScore": 0.68,
+      "size": 1.78,
+      "metadata": {
+        "cluster": 3,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-3-17",
+      "label": "pkg-3-17",
+      "type": "api",
+      "position": [
+        -8.22,
+        -4.09,
+        -2.45
+      ],
+      "riskScore": 0.35,
+      "size": 1.3,
+      "metadata": {
+        "cluster": 3,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-3-18",
+      "label": "pkg-3-18",
+      "type": "service",
+      "position": [
+        -8.37,
+        -3.31,
+        -1.19
+      ],
+      "riskScore": 0.51,
+      "size": 1.75,
+      "metadata": {
+        "cluster": 3,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-3-19",
+      "label": "pkg-3-19",
+      "type": "database",
+      "position": [
+        -5.95,
+        -3.47,
+        -1.32
+      ],
+      "riskScore": 0.32,
+      "size": 1.7,
+      "metadata": {
+        "cluster": 3,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-4-0",
+      "label": "pkg-4-0",
+      "type": "database",
+      "position": [
+        -0.56,
+        1.0,
+        -8.66
+      ],
+      "riskScore": 0.69,
+      "size": 1.6,
+      "metadata": {
+        "cluster": 4,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-4-1",
+      "label": "pkg-4-1",
+      "type": "server",
+      "position": [
+        -0.79,
+        -0.47,
+        -7.29
+      ],
+      "riskScore": 0.83,
+      "size": 1.46,
+      "metadata": {
+        "cluster": 4,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-4-2",
+      "label": "pkg-4-2",
+      "type": "repository",
+      "position": [
+        -2.98,
+        -0.89,
+        -7.19
+      ],
+      "riskScore": 0.24,
+      "size": 1.9,
+      "metadata": {
+        "cluster": 4,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-4-3",
+      "label": "pkg-4-3",
+      "type": "library",
+      "position": [
+        -2.35,
+        -1.0,
+        -5.02
+      ],
+      "riskScore": 0.84,
+      "size": 1.51,
+      "metadata": {
+        "cluster": 4,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-4-4",
+      "label": "pkg-4-4",
+      "type": "api",
+      "position": [
+        -3.97,
+        -0.34,
+        -5.49
+      ],
+      "riskScore": 0.76,
+      "size": 2.01,
+      "metadata": {
+        "cluster": 4,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-4-5",
+      "label": "pkg-4-5",
+      "type": "service",
+      "position": [
+        -5.0,
+        0.07,
+        -5.84
+      ],
+      "riskScore": 0.36,
+      "size": 1.06,
+      "metadata": {
+        "cluster": 4,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-4-6",
+      "label": "pkg-4-6",
+      "type": "database",
+      "position": [
+        -5.96,
+        0.03,
+        -5.7
+      ],
+      "riskScore": 0.55,
+      "size": 2.05,
+      "metadata": {
+        "cluster": 4,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-4-7",
+      "label": "pkg-4-7",
+      "type": "server",
+      "position": [
+        -6.58,
+        0.86,
+        -6.49
+      ],
+      "riskScore": 0.18,
+      "size": 1.52,
+      "metadata": {
+        "cluster": 4,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-4-8",
+      "label": "pkg-4-8",
+      "type": "repository",
+      "position": [
+        -7.93,
+        -0.85,
+        -6.53
+      ],
+      "riskScore": 0.61,
+      "size": 1.03,
+      "metadata": {
+        "cluster": 4,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-4-9",
+      "label": "pkg-4-9",
+      "type": "library",
+      "position": [
+        -8.85,
+        0.62,
+        -7.41
+      ],
+      "riskScore": 0.72,
+      "size": 1.25,
+      "metadata": {
+        "cluster": 4,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-4-10",
+      "label": "pkg-4-10",
+      "type": "api",
+      "position": [
+        -8.9,
+        -0.55,
+        -8.66
+      ],
+      "riskScore": 0.74,
+      "size": 1.87,
+      "metadata": {
+        "cluster": 4,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-4-11",
+      "label": "pkg-4-11",
+      "type": "service",
+      "position": [
+        -8.26,
+        -0.92,
+        -9.72
+      ],
+      "riskScore": 0.74,
+      "size": 1.58,
+      "metadata": {
+        "cluster": 4,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-4-12",
+      "label": "pkg-4-12",
+      "type": "database",
+      "position": [
+        -7.36,
+        0.0,
+        -10.38
+      ],
+      "riskScore": 0.48,
+      "size": 2.12,
+      "metadata": {
+        "cluster": 4,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-4-13",
+      "label": "pkg-4-13",
+      "type": "server",
+      "position": [
+        -6.26,
+        0.01,
+        -10.4
+      ],
+      "riskScore": 0.33,
+      "size": 1.3,
+      "metadata": {
+        "cluster": 4,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-4-14",
+      "label": "pkg-4-14",
+      "type": "repository",
+      "position": [
+        -5.63,
+        1.12,
+        -10.58
+      ],
+      "riskScore": 0.65,
+      "size": 2.0,
+      "metadata": {
+        "cluster": 4,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-4-15",
+      "label": "pkg-4-15",
+      "type": "library",
+      "position": [
+        -5.0,
+        0.59,
+        -11.1
+      ],
+      "riskScore": 0.32,
+      "size": 1.56,
+      "metadata": {
+        "cluster": 4,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-4-16",
+      "label": "pkg-4-16",
+      "type": "api",
+      "position": [
+        -3.78,
+        -0.63,
+        -12.4
+      ],
+      "riskScore": 0.79,
+      "size": 1.45,
+      "metadata": {
+        "cluster": 4,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-4-17",
+      "label": "pkg-4-17",
+      "type": "service",
+      "position": [
+        -3.45,
+        -0.4,
+        -10.79
+      ],
+      "riskScore": 0.63,
+      "size": 1.72,
+      "metadata": {
+        "cluster": 4,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-4-18",
+      "label": "pkg-4-18",
+      "type": "database",
+      "position": [
+        -3.26,
+        -1.1,
+        -9.92
+      ],
+      "riskScore": 0.36,
+      "size": 1.69,
+      "metadata": {
+        "cluster": 4,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-4-19",
+      "label": "pkg-4-19",
+      "type": "server",
+      "position": [
+        -2.21,
+        1.12,
+        -9.57
+      ],
+      "riskScore": 0.82,
+      "size": 1.87,
+      "metadata": {
+        "cluster": 4,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-5-0",
+      "label": "pkg-5-0",
+      "type": "server",
+      "position": [
+        8.43,
+        4.65,
+        -8.66
+      ],
+      "riskScore": 0.2,
+      "size": 1.91,
+      "metadata": {
+        "cluster": 5,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-5-1",
+      "label": "pkg-5-1",
+      "type": "repository",
+      "position": [
+        7.03,
+        4.66,
+        -8.0
+      ],
+      "riskScore": 0.22,
+      "size": 1.44,
+      "metadata": {
+        "cluster": 5,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-5-2",
+      "label": "pkg-5-2",
+      "type": "library",
+      "position": [
+        8.35,
+        4.4,
+        -6.23
+      ],
+      "riskScore": 0.62,
+      "size": 1.35,
+      "metadata": {
+        "cluster": 5,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-5-3",
+      "label": "pkg-5-3",
+      "type": "api",
+      "position": [
+        7.62,
+        2.49,
+        -5.06
+      ],
+      "riskScore": 0.59,
+      "size": 1.85,
+      "metadata": {
+        "cluster": 5,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-5-4",
+      "label": "pkg-5-4",
+      "type": "service",
+      "position": [
+        6.33,
+        3.84,
+        -4.57
+      ],
+      "riskScore": 0.5,
+      "size": 1.86,
+      "metadata": {
+        "cluster": 5,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-5-5",
+      "label": "pkg-5-5",
+      "type": "database",
+      "position": [
+        5.0,
+        3.73,
+        -6.41
+      ],
+      "riskScore": 0.84,
+      "size": 2.06,
+      "metadata": {
+        "cluster": 5,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-5-6",
+      "label": "pkg-5-6",
+      "type": "server",
+      "position": [
+        3.95,
+        4.57,
+        -5.44
+      ],
+      "riskScore": 0.51,
+      "size": 1.8,
+      "metadata": {
+        "cluster": 5,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-5-7",
+      "label": "pkg-5-7",
+      "type": "repository",
+      "position": [
+        3.23,
+        2.9,
+        -6.23
+      ],
+      "riskScore": 0.74,
+      "size": 1.43,
+      "metadata": {
+        "cluster": 5,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-5-8",
+      "label": "pkg-5-8",
+      "type": "library",
+      "position": [
+        1.65,
+        2.52,
+        -6.23
+      ],
+      "riskScore": 0.78,
+      "size": 2.15,
+      "metadata": {
+        "cluster": 5,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-5-9",
+      "label": "pkg-5-9",
+      "type": "api",
+      "position": [
+        0.9,
+        4.35,
+        -7.33
+      ],
+      "riskScore": 0.23,
+      "size": 1.74,
+      "metadata": {
+        "cluster": 5,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-5-10",
+      "label": "pkg-5-10",
+      "type": "service",
+      "position": [
+        2.83,
+        2.39,
+        -8.66
+      ],
+      "riskScore": 0.45,
+      "size": 1.45,
+      "metadata": {
+        "cluster": 5,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-5-11",
+      "label": "pkg-5-11",
+      "type": "database",
+      "position": [
+        2.08,
+        3.28,
+        -9.61
+      ],
+      "riskScore": 0.46,
+      "size": 1.53,
+      "metadata": {
+        "cluster": 5,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-5-12",
+      "label": "pkg-5-12",
+      "type": "server",
+      "position": [
+        1.94,
+        4.64,
+        -10.89
+      ],
+      "riskScore": 0.63,
+      "size": 1.96,
+      "metadata": {
+        "cluster": 5,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-5-13",
+      "label": "pkg-5-13",
+      "type": "repository",
+      "position": [
+        3.29,
+        2.93,
+        -11.01
+      ],
+      "riskScore": 0.54,
+      "size": 1.77,
+      "metadata": {
+        "cluster": 5,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-5-14",
+      "label": "pkg-5-14",
+      "type": "library",
+      "position": [
+        3.74,
+        2.53,
+        -12.53
+      ],
+      "riskScore": 0.71,
+      "size": 2.17,
+      "metadata": {
+        "cluster": 5,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-5-15",
+      "label": "pkg-5-15",
+      "type": "api",
+      "position": [
+        5.0,
+        3.37,
+        -11.67
+      ],
+      "riskScore": 0.76,
+      "size": 1.36,
+      "metadata": {
+        "cluster": 5,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-5-16",
+      "label": "pkg-5-16",
+      "type": "service",
+      "position": [
+        5.87,
+        2.55,
+        -11.33
+      ],
+      "riskScore": 0.79,
+      "size": 1.15,
+      "metadata": {
+        "cluster": 5,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-5-17",
+      "label": "pkg-5-17",
+      "type": "database",
+      "position": [
+        6.87,
+        3.84,
+        -11.23
+      ],
+      "riskScore": 0.19,
+      "size": 1.99,
+      "metadata": {
+        "cluster": 5,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-5-18",
+      "label": "pkg-5-18",
+      "type": "server",
+      "position": [
+        6.69,
+        3.27,
+        -9.89
+      ],
+      "riskScore": 0.69,
+      "size": 1.19,
+      "metadata": {
+        "cluster": 5,
+        "source": "demo"
+      }
+    },
+    {
+      "id": "pkg-5-19",
+      "label": "pkg-5-19",
+      "type": "repository",
+      "position": [
+        8.29,
+        4.44,
+        -9.73
+      ],
+      "riskScore": 0.69,
+      "size": 1.54,
+      "metadata": {
+        "cluster": 5,
+        "source": "demo"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "backbone-0",
+      "source": "demo/repository",
+      "target": "pkg-1-0",
+      "weight": 1
+    },
+    {
+      "id": "backbone-1",
+      "source": "demo/repository",
+      "target": "pkg-2-0",
+      "weight": 1
+    },
+    {
+      "id": "backbone-2",
+      "source": "demo/repository",
+      "target": "pkg-3-0",
+      "weight": 1
+    },
+    {
+      "id": "backbone-3",
+      "source": "demo/repository",
+      "target": "pkg-4-0",
+      "weight": 1
+    },
+    {
+      "id": "backbone-4",
+      "source": "demo/repository",
+      "target": "pkg-5-0",
+      "weight": 1
+    },
+    {
+      "id": "cluster-0-1",
+      "source": "demo/repository",
+      "target": "pkg-0-1",
+      "weight": 1
+    },
+    {
+      "id": "cluster-0-2",
+      "source": "demo/repository",
+      "target": "pkg-0-2",
+      "weight": 1
+    },
+    {
+      "id": "cluster-0-3",
+      "source": "pkg-0-2",
+      "target": "pkg-0-3",
+      "weight": 1
+    },
+    {
+      "id": "cluster-0-4",
+      "source": "demo/repository",
+      "target": "pkg-0-4",
+      "weight": 1
+    },
+    {
+      "id": "cluster-0-5",
+      "source": "pkg-0-2",
+      "target": "pkg-0-5",
+      "weight": 1
+    },
+    {
+      "id": "cluster-0-6",
+      "source": "pkg-0-5",
+      "target": "pkg-0-6",
+      "weight": 1
+    },
+    {
+      "id": "cluster-0-7",
+      "source": "pkg-0-5",
+      "target": "pkg-0-7",
+      "weight": 1
+    },
+    {
+      "id": "cluster-0-8",
+      "source": "demo/repository",
+      "target": "pkg-0-8",
+      "weight": 1
+    },
+    {
+      "id": "cluster-0-9",
+      "source": "pkg-0-8",
+      "target": "pkg-0-9",
+      "weight": 1
+    },
+    {
+      "id": "cluster-0-10",
+      "source": "pkg-0-8",
+      "target": "pkg-0-10",
+      "weight": 1
+    },
+    {
+      "id": "cluster-0-11",
+      "source": "pkg-0-8",
+      "target": "pkg-0-11",
+      "weight": 1
+    },
+    {
+      "id": "cluster-0-12",
+      "source": "demo/repository",
+      "target": "pkg-0-12",
+      "weight": 1
+    },
+    {
+      "id": "cluster-0-13",
+      "source": "pkg-0-11",
+      "target": "pkg-0-13",
+      "weight": 1
+    },
+    {
+      "id": "cluster-0-14",
+      "source": "pkg-0-11",
+      "target": "pkg-0-14",
+      "weight": 1
+    },
+    {
+      "id": "cluster-0-15",
+      "source": "pkg-0-14",
+      "target": "pkg-0-15",
+      "weight": 1
+    },
+    {
+      "id": "cluster-0-16",
+      "source": "demo/repository",
+      "target": "pkg-0-16",
+      "weight": 1
+    },
+    {
+      "id": "cluster-0-17",
+      "source": "pkg-0-14",
+      "target": "pkg-0-17",
+      "weight": 1
+    },
+    {
+      "id": "cluster-0-18",
+      "source": "pkg-0-17",
+      "target": "pkg-0-18",
+      "weight": 1
+    },
+    {
+      "id": "cluster-0-19",
+      "source": "pkg-0-17",
+      "target": "pkg-0-19",
+      "weight": 1
+    },
+    {
+      "id": "cross-0-2",
+      "source": "demo/repository",
+      "target": "pkg-0-2",
+      "weight": 0.6
+    },
+    {
+      "id": "cross-0-7",
+      "source": "pkg-0-5",
+      "target": "pkg-0-7",
+      "weight": 0.6
+    },
+    {
+      "id": "cross-0-12",
+      "source": "pkg-0-10",
+      "target": "pkg-0-12",
+      "weight": 0.6
+    },
+    {
+      "id": "cross-0-17",
+      "source": "pkg-0-15",
+      "target": "pkg-0-17",
+      "weight": 0.6
+    },
+    {
+      "id": "cluster-1-1",
+      "source": "pkg-1-0",
+      "target": "pkg-1-1",
+      "weight": 1
+    },
+    {
+      "id": "cluster-1-2",
+      "source": "pkg-1-0",
+      "target": "pkg-1-2",
+      "weight": 1
+    },
+    {
+      "id": "cluster-1-3",
+      "source": "pkg-1-2",
+      "target": "pkg-1-3",
+      "weight": 1
+    },
+    {
+      "id": "cluster-1-4",
+      "source": "pkg-1-0",
+      "target": "pkg-1-4",
+      "weight": 1
+    },
+    {
+      "id": "cluster-1-5",
+      "source": "pkg-1-2",
+      "target": "pkg-1-5",
+      "weight": 1
+    },
+    {
+      "id": "cluster-1-6",
+      "source": "pkg-1-5",
+      "target": "pkg-1-6",
+      "weight": 1
+    },
+    {
+      "id": "cluster-1-7",
+      "source": "pkg-1-5",
+      "target": "pkg-1-7",
+      "weight": 1
+    },
+    {
+      "id": "cluster-1-8",
+      "source": "pkg-1-0",
+      "target": "pkg-1-8",
+      "weight": 1
+    },
+    {
+      "id": "cluster-1-9",
+      "source": "pkg-1-8",
+      "target": "pkg-1-9",
+      "weight": 1
+    },
+    {
+      "id": "cluster-1-10",
+      "source": "pkg-1-8",
+      "target": "pkg-1-10",
+      "weight": 1
+    },
+    {
+      "id": "cluster-1-11",
+      "source": "pkg-1-8",
+      "target": "pkg-1-11",
+      "weight": 1
+    },
+    {
+      "id": "cluster-1-12",
+      "source": "pkg-1-0",
+      "target": "pkg-1-12",
+      "weight": 1
+    },
+    {
+      "id": "cluster-1-13",
+      "source": "pkg-1-11",
+      "target": "pkg-1-13",
+      "weight": 1
+    },
+    {
+      "id": "cluster-1-14",
+      "source": "pkg-1-11",
+      "target": "pkg-1-14",
+      "weight": 1
+    },
+    {
+      "id": "cluster-1-15",
+      "source": "pkg-1-14",
+      "target": "pkg-1-15",
+      "weight": 1
+    },
+    {
+      "id": "cluster-1-16",
+      "source": "pkg-1-0",
+      "target": "pkg-1-16",
+      "weight": 1
+    },
+    {
+      "id": "cluster-1-17",
+      "source": "pkg-1-14",
+      "target": "pkg-1-17",
+      "weight": 1
+    },
+    {
+      "id": "cluster-1-18",
+      "source": "pkg-1-17",
+      "target": "pkg-1-18",
+      "weight": 1
+    },
+    {
+      "id": "cluster-1-19",
+      "source": "pkg-1-17",
+      "target": "pkg-1-19",
+      "weight": 1
+    },
+    {
+      "id": "cross-1-2",
+      "source": "pkg-1-0",
+      "target": "pkg-1-2",
+      "weight": 0.6
+    },
+    {
+      "id": "cross-1-7",
+      "source": "pkg-1-5",
+      "target": "pkg-1-7",
+      "weight": 0.6
+    },
+    {
+      "id": "cross-1-12",
+      "source": "pkg-1-10",
+      "target": "pkg-1-12",
+      "weight": 0.6
+    },
+    {
+      "id": "cross-1-17",
+      "source": "pkg-1-15",
+      "target": "pkg-1-17",
+      "weight": 0.6
+    },
+    {
+      "id": "cluster-2-1",
+      "source": "pkg-2-0",
+      "target": "pkg-2-1",
+      "weight": 1
+    },
+    {
+      "id": "cluster-2-2",
+      "source": "pkg-2-0",
+      "target": "pkg-2-2",
+      "weight": 1
+    },
+    {
+      "id": "cluster-2-3",
+      "source": "pkg-2-2",
+      "target": "pkg-2-3",
+      "weight": 1
+    },
+    {
+      "id": "cluster-2-4",
+      "source": "pkg-2-0",
+      "target": "pkg-2-4",
+      "weight": 1
+    },
+    {
+      "id": "cluster-2-5",
+      "source": "pkg-2-2",
+      "target": "pkg-2-5",
+      "weight": 1
+    },
+    {
+      "id": "cluster-2-6",
+      "source": "pkg-2-5",
+      "target": "pkg-2-6",
+      "weight": 1
+    },
+    {
+      "id": "cluster-2-7",
+      "source": "pkg-2-5",
+      "target": "pkg-2-7",
+      "weight": 1
+    },
+    {
+      "id": "cluster-2-8",
+      "source": "pkg-2-0",
+      "target": "pkg-2-8",
+      "weight": 1
+    },
+    {
+      "id": "cluster-2-9",
+      "source": "pkg-2-8",
+      "target": "pkg-2-9",
+      "weight": 1
+    },
+    {
+      "id": "cluster-2-10",
+      "source": "pkg-2-8",
+      "target": "pkg-2-10",
+      "weight": 1
+    },
+    {
+      "id": "cluster-2-11",
+      "source": "pkg-2-8",
+      "target": "pkg-2-11",
+      "weight": 1
+    },
+    {
+      "id": "cluster-2-12",
+      "source": "pkg-2-0",
+      "target": "pkg-2-12",
+      "weight": 1
+    },
+    {
+      "id": "cluster-2-13",
+      "source": "pkg-2-11",
+      "target": "pkg-2-13",
+      "weight": 1
+    },
+    {
+      "id": "cluster-2-14",
+      "source": "pkg-2-11",
+      "target": "pkg-2-14",
+      "weight": 1
+    },
+    {
+      "id": "cluster-2-15",
+      "source": "pkg-2-14",
+      "target": "pkg-2-15",
+      "weight": 1
+    },
+    {
+      "id": "cluster-2-16",
+      "source": "pkg-2-0",
+      "target": "pkg-2-16",
+      "weight": 1
+    },
+    {
+      "id": "cluster-2-17",
+      "source": "pkg-2-14",
+      "target": "pkg-2-17",
+      "weight": 1
+    },
+    {
+      "id": "cluster-2-18",
+      "source": "pkg-2-17",
+      "target": "pkg-2-18",
+      "weight": 1
+    },
+    {
+      "id": "cluster-2-19",
+      "source": "pkg-2-17",
+      "target": "pkg-2-19",
+      "weight": 1
+    },
+    {
+      "id": "cross-2-2",
+      "source": "pkg-2-0",
+      "target": "pkg-2-2",
+      "weight": 0.6
+    },
+    {
+      "id": "cross-2-7",
+      "source": "pkg-2-5",
+      "target": "pkg-2-7",
+      "weight": 0.6
+    },
+    {
+      "id": "cross-2-12",
+      "source": "pkg-2-10",
+      "target": "pkg-2-12",
+      "weight": 0.6
+    },
+    {
+      "id": "cross-2-17",
+      "source": "pkg-2-15",
+      "target": "pkg-2-17",
+      "weight": 0.6
+    },
+    {
+      "id": "cluster-3-1",
+      "source": "pkg-3-0",
+      "target": "pkg-3-1",
+      "weight": 1
+    },
+    {
+      "id": "cluster-3-2",
+      "source": "pkg-3-0",
+      "target": "pkg-3-2",
+      "weight": 1
+    },
+    {
+      "id": "cluster-3-3",
+      "source": "pkg-3-2",
+      "target": "pkg-3-3",
+      "weight": 1
+    },
+    {
+      "id": "cluster-3-4",
+      "source": "pkg-3-0",
+      "target": "pkg-3-4",
+      "weight": 1
+    },
+    {
+      "id": "cluster-3-5",
+      "source": "pkg-3-2",
+      "target": "pkg-3-5",
+      "weight": 1
+    },
+    {
+      "id": "cluster-3-6",
+      "source": "pkg-3-5",
+      "target": "pkg-3-6",
+      "weight": 1
+    },
+    {
+      "id": "cluster-3-7",
+      "source": "pkg-3-5",
+      "target": "pkg-3-7",
+      "weight": 1
+    },
+    {
+      "id": "cluster-3-8",
+      "source": "pkg-3-0",
+      "target": "pkg-3-8",
+      "weight": 1
+    },
+    {
+      "id": "cluster-3-9",
+      "source": "pkg-3-8",
+      "target": "pkg-3-9",
+      "weight": 1
+    },
+    {
+      "id": "cluster-3-10",
+      "source": "pkg-3-8",
+      "target": "pkg-3-10",
+      "weight": 1
+    },
+    {
+      "id": "cluster-3-11",
+      "source": "pkg-3-8",
+      "target": "pkg-3-11",
+      "weight": 1
+    },
+    {
+      "id": "cluster-3-12",
+      "source": "pkg-3-0",
+      "target": "pkg-3-12",
+      "weight": 1
+    },
+    {
+      "id": "cluster-3-13",
+      "source": "pkg-3-11",
+      "target": "pkg-3-13",
+      "weight": 1
+    },
+    {
+      "id": "cluster-3-14",
+      "source": "pkg-3-11",
+      "target": "pkg-3-14",
+      "weight": 1
+    },
+    {
+      "id": "cluster-3-15",
+      "source": "pkg-3-14",
+      "target": "pkg-3-15",
+      "weight": 1
+    },
+    {
+      "id": "cluster-3-16",
+      "source": "pkg-3-0",
+      "target": "pkg-3-16",
+      "weight": 1
+    },
+    {
+      "id": "cluster-3-17",
+      "source": "pkg-3-14",
+      "target": "pkg-3-17",
+      "weight": 1
+    },
+    {
+      "id": "cluster-3-18",
+      "source": "pkg-3-17",
+      "target": "pkg-3-18",
+      "weight": 1
+    },
+    {
+      "id": "cluster-3-19",
+      "source": "pkg-3-17",
+      "target": "pkg-3-19",
+      "weight": 1
+    },
+    {
+      "id": "cross-3-2",
+      "source": "pkg-3-0",
+      "target": "pkg-3-2",
+      "weight": 0.6
+    },
+    {
+      "id": "cross-3-7",
+      "source": "pkg-3-5",
+      "target": "pkg-3-7",
+      "weight": 0.6
+    },
+    {
+      "id": "cross-3-12",
+      "source": "pkg-3-10",
+      "target": "pkg-3-12",
+      "weight": 0.6
+    },
+    {
+      "id": "cross-3-17",
+      "source": "pkg-3-15",
+      "target": "pkg-3-17",
+      "weight": 0.6
+    },
+    {
+      "id": "cluster-4-1",
+      "source": "pkg-4-0",
+      "target": "pkg-4-1",
+      "weight": 1
+    },
+    {
+      "id": "cluster-4-2",
+      "source": "pkg-4-0",
+      "target": "pkg-4-2",
+      "weight": 1
+    },
+    {
+      "id": "cluster-4-3",
+      "source": "pkg-4-2",
+      "target": "pkg-4-3",
+      "weight": 1
+    },
+    {
+      "id": "cluster-4-4",
+      "source": "pkg-4-0",
+      "target": "pkg-4-4",
+      "weight": 1
+    },
+    {
+      "id": "cluster-4-5",
+      "source": "pkg-4-2",
+      "target": "pkg-4-5",
+      "weight": 1
+    },
+    {
+      "id": "cluster-4-6",
+      "source": "pkg-4-5",
+      "target": "pkg-4-6",
+      "weight": 1
+    },
+    {
+      "id": "cluster-4-7",
+      "source": "pkg-4-5",
+      "target": "pkg-4-7",
+      "weight": 1
+    },
+    {
+      "id": "cluster-4-8",
+      "source": "pkg-4-0",
+      "target": "pkg-4-8",
+      "weight": 1
+    },
+    {
+      "id": "cluster-4-9",
+      "source": "pkg-4-8",
+      "target": "pkg-4-9",
+      "weight": 1
+    },
+    {
+      "id": "cluster-4-10",
+      "source": "pkg-4-8",
+      "target": "pkg-4-10",
+      "weight": 1
+    },
+    {
+      "id": "cluster-4-11",
+      "source": "pkg-4-8",
+      "target": "pkg-4-11",
+      "weight": 1
+    },
+    {
+      "id": "cluster-4-12",
+      "source": "pkg-4-0",
+      "target": "pkg-4-12",
+      "weight": 1
+    },
+    {
+      "id": "cluster-4-13",
+      "source": "pkg-4-11",
+      "target": "pkg-4-13",
+      "weight": 1
+    },
+    {
+      "id": "cluster-4-14",
+      "source": "pkg-4-11",
+      "target": "pkg-4-14",
+      "weight": 1
+    },
+    {
+      "id": "cluster-4-15",
+      "source": "pkg-4-14",
+      "target": "pkg-4-15",
+      "weight": 1
+    },
+    {
+      "id": "cluster-4-16",
+      "source": "pkg-4-0",
+      "target": "pkg-4-16",
+      "weight": 1
+    },
+    {
+      "id": "cluster-4-17",
+      "source": "pkg-4-14",
+      "target": "pkg-4-17",
+      "weight": 1
+    },
+    {
+      "id": "cluster-4-18",
+      "source": "pkg-4-17",
+      "target": "pkg-4-18",
+      "weight": 1
+    },
+    {
+      "id": "cluster-4-19",
+      "source": "pkg-4-17",
+      "target": "pkg-4-19",
+      "weight": 1
+    },
+    {
+      "id": "cross-4-2",
+      "source": "pkg-4-0",
+      "target": "pkg-4-2",
+      "weight": 0.6
+    },
+    {
+      "id": "cross-4-7",
+      "source": "pkg-4-5",
+      "target": "pkg-4-7",
+      "weight": 0.6
+    },
+    {
+      "id": "cross-4-12",
+      "source": "pkg-4-10",
+      "target": "pkg-4-12",
+      "weight": 0.6
+    },
+    {
+      "id": "cross-4-17",
+      "source": "pkg-4-15",
+      "target": "pkg-4-17",
+      "weight": 0.6
+    },
+    {
+      "id": "cluster-5-1",
+      "source": "pkg-5-0",
+      "target": "pkg-5-1",
+      "weight": 1
+    },
+    {
+      "id": "cluster-5-2",
+      "source": "pkg-5-0",
+      "target": "pkg-5-2",
+      "weight": 1
+    },
+    {
+      "id": "cluster-5-3",
+      "source": "pkg-5-2",
+      "target": "pkg-5-3",
+      "weight": 1
+    },
+    {
+      "id": "cluster-5-4",
+      "source": "pkg-5-0",
+      "target": "pkg-5-4",
+      "weight": 1
+    },
+    {
+      "id": "cluster-5-5",
+      "source": "pkg-5-2",
+      "target": "pkg-5-5",
+      "weight": 1
+    },
+    {
+      "id": "cluster-5-6",
+      "source": "pkg-5-5",
+      "target": "pkg-5-6",
+      "weight": 1
+    },
+    {
+      "id": "cluster-5-7",
+      "source": "pkg-5-5",
+      "target": "pkg-5-7",
+      "weight": 1
+    },
+    {
+      "id": "cluster-5-8",
+      "source": "pkg-5-0",
+      "target": "pkg-5-8",
+      "weight": 1
+    },
+    {
+      "id": "cluster-5-9",
+      "source": "pkg-5-8",
+      "target": "pkg-5-9",
+      "weight": 1
+    },
+    {
+      "id": "cluster-5-10",
+      "source": "pkg-5-8",
+      "target": "pkg-5-10",
+      "weight": 1
+    },
+    {
+      "id": "cluster-5-11",
+      "source": "pkg-5-8",
+      "target": "pkg-5-11",
+      "weight": 1
+    },
+    {
+      "id": "cluster-5-12",
+      "source": "pkg-5-0",
+      "target": "pkg-5-12",
+      "weight": 1
+    },
+    {
+      "id": "cluster-5-13",
+      "source": "pkg-5-11",
+      "target": "pkg-5-13",
+      "weight": 1
+    },
+    {
+      "id": "cluster-5-14",
+      "source": "pkg-5-11",
+      "target": "pkg-5-14",
+      "weight": 1
+    },
+    {
+      "id": "cluster-5-15",
+      "source": "pkg-5-14",
+      "target": "pkg-5-15",
+      "weight": 1
+    },
+    {
+      "id": "cluster-5-16",
+      "source": "pkg-5-0",
+      "target": "pkg-5-16",
+      "weight": 1
+    },
+    {
+      "id": "cluster-5-17",
+      "source": "pkg-5-14",
+      "target": "pkg-5-17",
+      "weight": 1
+    },
+    {
+      "id": "cluster-5-18",
+      "source": "pkg-5-17",
+      "target": "pkg-5-18",
+      "weight": 1
+    },
+    {
+      "id": "cluster-5-19",
+      "source": "pkg-5-17",
+      "target": "pkg-5-19",
+      "weight": 1
+    },
+    {
+      "id": "cross-5-2",
+      "source": "pkg-5-0",
+      "target": "pkg-5-2",
+      "weight": 0.6
+    },
+    {
+      "id": "cross-5-7",
+      "source": "pkg-5-5",
+      "target": "pkg-5-7",
+      "weight": 0.6
+    },
+    {
+      "id": "cross-5-12",
+      "source": "pkg-5-10",
+      "target": "pkg-5-12",
+      "weight": 0.6
+    },
+    {
+      "id": "cross-5-17",
+      "source": "pkg-5-15",
+      "target": "pkg-5-17",
+      "weight": 0.6
+    }
+  ]
+}
